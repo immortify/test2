@@ -1,7 +1,7 @@
 {
-  "name": "Web Speech AI Chatbot Demo",
+  "name": "Immortify Test2",
   "description": "Simple AI Chat Bot Demo with Web Speech API",
-  "repository": "https://github.com/girliemac/web-speech-ai",
+  "repository": "https://github.com/immortify/test2",
   "keywords": ["ai", "api.ai", "bot", "w3c"],
   "env": {
     "APIAI_TOKEN": {
